@@ -4,4 +4,4 @@
 
 ## 읽을거리
 
-- [BST_depth](./BST_depth.html)
+- [BST_depth](https://dku-study.github.io/InfoBoard/BST_depth.html)
